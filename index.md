@@ -18,7 +18,7 @@
 
 
 
-## The recently research
+## The recent research
 
 1. Boundary augment: A data augment method to defend poison attack
 [Paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.12325)
