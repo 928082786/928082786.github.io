@@ -9,23 +9,28 @@
       <p><b>Email: chenxuan0839@gmail.com</b></p>
       <p><b>Github:<a href="https://github.com/928082786">
       https://github.com/928082786</a></b> </p>
-      <p><b>Address:  Baqiao, Xi'an City, Shaanxi Province</b></p>
+      <p><b>Address:  Baqiao, Xi'an City, Shaanxi Province<b></p>
+      <p><b>Address:  Baqiao, Xi'an City, Shaanxi Province<b></p> 
+
     </td>
     <td width="40%">
-      <img src="me.jpg" width="100%">    
+      <img src="./Imgs/me.jpg" width="100%">    
     </td>
   </tr>
 </table>
 
-I am a graduate student of AFEU. 
-My primary interests are deep learning, adversarial attacks, and backdoor attacks. 
-Besides, the researches of quantum computing and quantum machine learning also attract me much.
+
+<font face="楷体" size=5pt>I am a graduate student of AFEU. My primary interests are deep learning, adversarial attacks, and backdoor attacks. Besides, the researches of quantum computing and quantum machine learning also attract me much.</font>
+
+
 
 ### The recently research
-1. Boundary augment: A data augment method to defend poison attack
-:rocket: [Paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.12325)
 
-2. Use Procedural Noise to Achieve Backdoor Attack
-:rocket: [Paper](https://www.researchgate.net/publication/354345187_Use_Procedural_Noise_to_Achieve_Backdoor_Attack)
+1. <font size=4pt>Boundary augment: A data augment method to defend poison attack
+:rocket: [Paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.12325)</font>
+
+2. <font size=4pt>Use Procedural Noise to Achieve Backdoor Attack
+:rocket: [Paper](https://www.researchgate.net/publication/354345187_Use_Procedural_Noise_to_Achieve_Backdoor_Attack)</font>
 
 ### Activity
+
