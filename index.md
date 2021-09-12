@@ -1,4 +1,19 @@
 ## Welcome to GitHub Pages
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Xuan Chen</h1>
+      <p><b>A graduate student of AFEU. </b></p>
+      <p><b>Tel: 18142487964</b></p>
+      <p><b>e-mail: chenxuan0839@gmail.com</b></p>
+      <p>Address: No.1 A, Changle East Road, Baqiao District, Xi'an City, Shaanxi Province</p>
+    </td>
+    <td width="25%">
+      <img src="/zhengjianzhao.jpg" width="100%">    
+    </td>
+  </tr>
+</table>
+
 
 You can use the [editor on GitHub](https://github.com/928082786/928082786.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
