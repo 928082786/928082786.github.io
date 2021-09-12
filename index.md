@@ -9,7 +9,7 @@
       <p>Address: No.1 A, Changle East Road, Baqiao District, Xi'an City, Shaanxi Province</p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">    
+      <img src="me.jpg" width="100%">    
     </td>
   </tr>
 </table>
