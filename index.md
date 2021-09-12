@@ -1,12 +1,8 @@
 ## Personal Page
-
-## Personal Page
-
 <table border="0">
   <tr>
     <td width="60%">
       <h1>Xuan Chen</h1>
-      <p><b>A graduate student of AFEU.</b></p>
       <p><b>Tel: 18142487964</b></p>
       <p><b>Email: chenxuan0839@gmail.com</b></p>
       <p><b>Github:<a href="https://github.com/928082786">
