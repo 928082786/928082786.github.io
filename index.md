@@ -20,10 +20,10 @@
 
 ### The recently research
 
-1. <font size=4pt>Boundary augment: A data augment method to defend poison attack
-[Paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.12325)</font>
+1. Boundary augment: A data augment method to defend poison attack
+[Paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.12325)
 
-2. <font size=4pt>Use Procedural Noise to Achieve Backdoor Attack
-[Paper](https://www.researchgate.net/publication/354345187_Use_Procedural_Noise_to_Achieve_Backdoor_Attack)</font>
+2. Use Procedural Noise to Achieve Backdoor Attack
+[Paper](https://www.researchgate.net/publication/354345187_Use_Procedural_Noise_to_Achieve_Backdoor_Attack)
 
 ### Activity
