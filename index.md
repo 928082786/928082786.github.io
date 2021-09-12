@@ -13,7 +13,6 @@
       https://github.com/928082786</a></b> </p>
       <p><b>Address:  Baqiao, Xi'an City, Shaanxi Province<b></p>
       <p><b>Description:  <font face="楷体" size=3pt>I am a graduate student of AFEU. My primary interests are deep learning, adversarial attacks, and backdoor attacks. Besides, the researches of quantum computing and quantum machine learning also attract me much.</font><b></p> 
-
     </td>
     <td width="40%">
       <img src="me.jpg" width="100%">    
