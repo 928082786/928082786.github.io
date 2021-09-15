@@ -26,14 +26,26 @@
 2. Use Procedural Noise to Achieve Backdoor Attack
 📖[Paper](https://www.researchgate.net/publication/354345187_Use_Procedural_Noise_to_Achieve_Backdoor_Attack)
 
-## Share Pizza
+## Shared Pizza
 ### Adversarial attack
 
-- 🚀[<font size=4pt, color=orange>All Adversarial Example Papers</font>](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html)
+- :rocket:[All Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html)
   > ***This website collects nearly all papers about the adversarial attack. It was built by Nicholas Carlini, a famous researcher in the deep learning security field.***
 
-- 🚀[<font size=4pt, color=orange>Trusted-AI/Adversarial Robustness Toolbox </font>](https://github.com/Trusted-AI/adversarial-robustness-toolbox)
+- :rocket:[Trusted-AI/adversarial-robustness-toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox)
   > ***Adversarial Robustness Toolbox (ART) is a Python library for Machine Learning Security. ART provides tools that enable developers and researchers to defend and evaluate Machine Learning models and applications against the adversarial threats of Evasion, Poisoning, Extraction, and Inference. ——IBM Trust AI***
 
-- 🚀[<font size=4pt, color=orange>Cleverhans</font>](https://github.com/cleverhans-lab/cleverhans)
-  > 
+- :rocket:[cleverhans](https://github.com/cleverhans-lab/cleverhans)
+  > ***The official library, built by GoodFellow and Nicholas Carlini, contains many attack and defense methods of adversarial attack. In the future version v4.0.0, The attacks in PyTorch will be priority processing, however, Tenserflow is mainstream in the current version.***
+
+- :rocket:[cleverhans blog](http://www.cleverhans.io/)
+  > ***The cleverhans blog is an open blog to review the reports about security and privacy in machine learning. However, the update speed is not quick.***
+
+### Backdoor attack
+- :rocket:[usnistgov/trojai-literature](https://github.com/usnistgov/trojai-literature)
+  > ***This is a github repo, containing curated papers and arXiv articles that are related to Trojan attacks, backdoor attacks, and data poisoning on neural networks and machine learning systems.***
+
+- :rocket:[ain-soph/trojanzoo](https://github.com/ain-soph/trojanzoo)
+  > ***This is a github repo, providing a baseline evaluation framework for the attack and defense methods. The [paper](https://arxiv.org/abs/2012.09302) illustrated the detailed contents of Trojanzoo***
+
+- :rocket:[Trusted-AI/adversarial-robustness-toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox)
