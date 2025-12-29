@@ -3,8 +3,8 @@
   <tr>
     <td width="60%">
       <h1>Xuan Chen</h1>
-      <p><b>Tel: 18142487964</b></p>
-      <p><b>Email: chenxuan0839@gmail.com</b></p>
+      <p><b>Tel: 13371485795</b></p>
+      <p><b>Email: 928082786@qq.com</b></p>
       <p><b>Github:<a href="https://github.com/928082786">
       https://github.com/928082786</a></b> </p>
       <p><b>Address:  Baqiao, Xi'an City, Shaanxi Province</b></p>
